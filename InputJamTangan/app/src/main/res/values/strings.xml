@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Input Jam Tangan</string>
+    <string name="jenis">Jenis</string>
+    <string name="warna">Warna</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="cetak">Cetak</string>
+    <string name="output_jenis">Jenis</string>
+    <string name="output_warna">Warna</string>
+    <string name="output_jumlah">Jumlah</string>
+</resources>
